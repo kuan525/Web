@@ -1,0 +1,4 @@
+bdo允许你修改默认的文本方向，默认为从左向右
+有一个叫做dir的属性，可以指定两种值
+ltr=left to right
+rtl=right to left
