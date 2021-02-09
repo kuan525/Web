@@ -1,0 +1,6 @@
+ordered list
+外：<ol>     内：<li>
+属性：
+start：规定有序列表的其实值
+type：“1、A、a、I、i……”标记的类型
+reversed：降序排列

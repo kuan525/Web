@@ -1,0 +1,6 @@
+同理list-style-type,这里使用图片
+<style>
+	list-style-image{
+		ul:url"xxxxxxxx";
+	}
+</style>

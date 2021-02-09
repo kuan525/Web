@@ -1,0 +1,1 @@
+规定标记的形状，（就是前面的点），方的圆的……{square  disc   circle   none}可对照属性表
