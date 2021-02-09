@@ -1,0 +1,3 @@
+del：被替换的旧的内容。有删除线。
+ins：被替换的新的内容。有下横线。
+例如网站：<del>www.fisfc.com</del>改为<ins>www.ilovefishc.com</ins>

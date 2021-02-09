@@ -1,0 +1,2 @@
+sup元素：上标文本。例如：E=mc<sup>2</sup>
+sub元素：下标文本。例如ZnSo<sub>4</sub>
