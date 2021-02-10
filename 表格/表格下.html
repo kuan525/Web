@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width initial-scale=1.0">
+		<meta name="author" content="帅宽">
+		<meta name="description" content="《Web开发课程》很棒！">
+		<meta name="keywords" content="A,B,C,D,E">
+		<meta http-equiv="refresh" content="99999">
+		<link rel="icon" type="image/x-icon" href="http://github.com/favicon.ico">
+		<title>表格</title>
+		<style>
+			h1.a{text-align:center;l}
+			h2.a{margin-left:60%;}
+			table{
+				border:1px solid black;
+			}
+			th,td{
+				broder:1px solid black;
+				padding:5px;
+			}
+			caption{padding:5px;}
+			thead tr{background:red;}
+			tbody tr{background:pink;}
+		</style>
+	</head>
+	<body>
+		<h1 class="a">帅宽的网站</h1>
+		<h2 class="a">学而不思则罔，思而不学则殆！</h2>
+		<!--开始定义表格-->
+		<table>
+			<!-- <colgroup> -->
+				<!-- <col style="background:grey"> -->
+				<!-- <col span="2" style="background:yellow"> -->
+			<!-- </colgroup> -->
+			<caption>表头上方字体</caption>
+			<thead>
+				<tr>
+					<th>姓名</th>
+					<th>性别</th>
+					<th>年级</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>sk</td>
+					<td>man</td>
+					<td>17</td>
+				</tr>
+				<tr>
+					<td>cxq</td>
+					<td>weman</td>
+					<td>18</td>
+				</tr>
+				<tr>
+					<td colspan="3">永远在一起！</td>
+				</tr>
+			</tbody>
+			<tfoot>
+				<tr>
+					<td colspan="3">内容仅供参考！</td>
+				</tr>
+			</tfoot>
+		</table>
+	</body>
+</html>

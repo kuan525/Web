@@ -1,0 +1,12 @@
+是设置css样式的
+col元素有一个span的属性
+例如
+<colgroup>
+	<col style="background:red">这是设置第一列为红色
+	<col span="2" style="background:green">这是设置纵跨两列，背景为绿色。
+</colgroup>
+目前学习的css样式有以下几种
+1、link链接外部样式表
+2、style内部样式表，一般在head里面
+3、style内联样式表，在body里面的colspan里面的col
+

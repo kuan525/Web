@@ -1,0 +1,23 @@
+thead表头，tbody主体，tfoot表尾
+例如
+<thead>
+	<tr>
+		<th>	
+			<li>表头</li>
+		</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>
+			<li>主体</li>
+		</td>
+	</tr>
+</tbody>
+<tfooot>
+	<tr>
+		<td>
+			<li>表尾</li>
+		</td>
+	</tr>
+</tfoot>

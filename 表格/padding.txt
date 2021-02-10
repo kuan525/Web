@@ -1,0 +1,11 @@
+padding是设置内边距，在th和tr里面。
+<style>
+table{
+	border：1px solid black;
+	border-collapse:collapse;
+}
+th,td{
+	border:  1px solid black;
+	padding:5px;
+}
+</style>

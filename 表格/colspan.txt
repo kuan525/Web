@@ -1,0 +1,3 @@
+colspan设置th,td单元格横跨的属性
+例如
+<td colspan="4"></td>

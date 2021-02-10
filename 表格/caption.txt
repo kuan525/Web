@@ -1,0 +1,13 @@
+caption：标题，必须紧挨table元素的开始标签。
+<style>
+		
+</style>
+<body>
+	<table>
+		<caption>标题</caption>
+		<th>
+		</th>
+		<tr>
+		</tr>
+	</table>
+</body>

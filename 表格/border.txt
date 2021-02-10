@@ -1,0 +1,10 @@
+边框样式,如果不使用border-collapse,则会是双线。
+<style>
+table{
+	border：1px solid black;
+	border-collapse:collapse;
+}
+th,td{
+	border:  1px solid black;
+}
+</style>
